@@ -32,11 +32,11 @@ Want to try it? [**Click here to play on GitHub Pages**](https://yourusername.gi
 
 ## 📂 File Structure
 Quizora/
-│
-├── index.html # Main HTML structure
-├── style.css # Styling and responsive layout
-├── script.js # All the quiz logic and scoring
-└── README.md # You're reading it!
+├── index.html        # Main HTML file (UI layout + entry point)
+├── style.css         # CSS file (animations, styles, layout)
+├── script.js         # JavaScript file (quiz logic, scoring)
+└── README.md         # Project description and documentation
+
 ## 🤝 Contributing
 
 Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
